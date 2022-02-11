@@ -32,5 +32,6 @@ if( $_POST['kleur'] ) {
     echo '<body style="background-color:'.$_POST['kleur'].'">';
    }
 ?>
+
 </body>
 </html>
