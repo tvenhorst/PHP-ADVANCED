@@ -16,7 +16,7 @@
       Titel <br> <input name="Titel"> <br><br>
       Jaar van uitkomst <br> <input name="Jaar_uitkomst"> <br><br>
       Muzieksoort <br> <input name="Muzieksoort"> <br><br>
-      <button>Send</button>
+      <button type = "submit">Send</button>
   </form>
 
  </body>
