@@ -8,9 +8,7 @@ $student  = array(
     "Woonplaats"  => "Amstelveen"
   );
   foreach($student as $key => $value) {
-    echo "<option value='$key'>$key</option>";
-    echo "<option value='$value'>$value</option>";
+    echo "$key = $value <br>";
   }
 
-  
 ?>
